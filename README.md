@@ -26,7 +26,7 @@
 
 ## Preamble
 
-We the people, defined as Ariel Noah Simulevski and Johannes Mayerl, are establish a living community. To keep order and peace within aforementioned living community, we ordain and establish this Constitution.
+We the people, defined as Ariel Noah Simulevski and Johannes Mayerl, are establishing a living community. To keep order and peace within aforementioned living community, we ordain and establish this Constitution.
 
 ## Article 1: The council of the flats
 
