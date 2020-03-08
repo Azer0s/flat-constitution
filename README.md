@@ -3,15 +3,25 @@
 **Table of contents**
 
 [**Constitution**](#constitution)
-	[Preamble](#preamble)
-	[Article 1: The council of the flats](#article-1-the-council-of-the-flats)
-	[Article 2: The flat consul](#article-2-the-flat-consul)
-	[Article 3: Behavioral Rules](#article-3-behavioral-rules)
-	[Article 4: Financial Rules](#article-4-financial-rules)
-	[Article 5: The kitchen](#article-5-the-kitchen)
-	[Article 6: Groceries](#article-6-groceries) 
-	[Article 7: Rental agreement](##Article 7: Rental agreement])
-	[Article 8: Ambiguities](#article-8-ambiguities)
+<br>
+[Preamble](#preamble)
+<br>
+[Article 1: The council of the flats](#article-1-the-council-of-the-flats)
+<br>
+[Article 2: The flat consul](#article-2-the-flat-consul)
+<br>
+[Article 3: Behavioral Rules](#article-3-behavioral-rules)
+<br>
+[Article 4: Financial Rules](#article-4-financial-rules)
+<br>
+[Article 5: The kitchen](#article-5-the-kitchen)
+<br>
+[Article 6: Groceries](#article-6-groceries)
+<br>
+[Article 7: Rental agreement](#article-7-rental-agreement)
+<br>
+[Article 8: Ambiguities](#article-8-ambiguities)
+<br>
 [**Amendments**](#amendments)
 
 ## Preamble
