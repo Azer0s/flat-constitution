@@ -1,12 +1,24 @@
 # Constitution
 
-[TOC]
+**Table of contents**
+
+[**Constitution**](#constitution)
+	[Preamble](#preamble)
+	[Article 1: The council of the flats](#article-1-the-council-of-the-flats)
+	[Article 2: The flat consul](#article-2-the-flat-consul)
+	[Article 3: Behavioral Rules](#article-3-behavioral-rules)
+	[Article 4: Financial Rules](#article-4-financial-rules)
+	[Article 5: The kitchen](#article-5-the-kitchen)
+	[Article 6: Groceries](#article-6-groceries) 
+	[Article 7: Rental agreement](##Article 7: Rental agreement])
+	[Article 8: Ambiguities](#article-8-ambiguities)
+[**Amendments**](#amendments)
 
 ## Preamble
 
 We the people, defined as Ariel Noah Simulevski and Johannes Mayerl, are establish a living community. To keep order and peace within aforementioned living community, we ordain and establish this Constitution.
 
-## Aritcle 1: The council of the flats
+## Article 1: The council of the flats
 
 All legislative power resides in the council of the flats (hereafter called council or flat members), consisting of the previously mentioned "people", of which every member has one vote. Decisions are made with a simple majority. In the case of a tie, the residing consul can break the tie.
 
