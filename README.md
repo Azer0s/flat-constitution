@@ -43,14 +43,14 @@ All executive power resides with the consul. They have the power to manage and a
 1. No flat member must physically assault another flat member.
 2. Any person may join the flat (and therefore become a part of the council) as long as the council allows it.
    1. This has to be decided upon in unison.
-3. Guests have to be accepted by the council. If the inviter notifies the council (via an agreed upon method of communication), and doesn't get veto'd by any of it's members, the guest will be invited.
+3. Guests have to be accepted by the council. If the inviter notifies the council (via an agreed upon method of communication), and doesn't get veto'd by any of its members, the guest will be invited.
    1. In case of an emergency situation, the above mentioned rule does not apply.
       1. If a veto occurs after said emergency situation, the above mentioned rule can not be applied again to the specific guest.
 4. Within the boundary of one's room, they must not be disturbed, if so desired.
    1. This also applies to shared rooms.
 5. Every flat member must restore order in the flat, if they caused disorder, within a reasonable timeframe.
 6. Chores are to be distributed equally.
-7. The cleaning has to organised in a way as that the flat is always in pristine condition.
+7. The cleaning has to organized in a way as that the flat is always in pristine condition.
    1. The health requirements of every member must be considered in this process.
 8. Any flat member may bring a pet into the flat as long as the council allows it.
    1. This has to be decided upon in unison.
@@ -67,14 +67,14 @@ This section applies to the behavior of a sitting consul.
       1. The proposal has to be approved by the council.
          1. This has to be decided upon in unison.
          2. If the proposal is rejected, a shutdown occurs and the conflict has to be resolved.
-   3. The money within the common fund is distrubuted to the other funds by the sitting consul.
+   3. The money within the common fund is distributed to the other funds by the sitting consul.
 2. A household fund has to be established.
    1. The purpose of the household fund is the acquisition of household products such as cleaning utensils, toiletries, etc.
    2. The household fund is a transient fund. If the household fund is not emptied by the end of a consuls term, the remaining money has to be distributed equally between the emergency and the reserves fund.
 3. An emergency fund has to be established.
    1. The purpose of the emergency fund is to provide financial stability to the council in case of a household emergency. E.g.: the disbursements of a plumber in case of a pipe rupture.
 4. A reserves fund has to be established.
-   1. The purpose of the reserves fund is to provide financial aid to individual flat members in case they want to aquire an item for the flat.
+   1. The purpose of the reserves fund is to provide financial aid to individual flat members in case they want to acquire an item for the flat.
    2. The reserves fund may only be tapped if the council allows it.
       1. This has to be decided upon in unison.
 5. All invoices have to be kept.
@@ -108,13 +108,13 @@ This section applies to the behavior of a sitting consul.
          1. The consul may not partake in this vote.
          2. In case of a tie, the consul can not break the tie.
          3. In case of a tie, the consul is considered innocent.
-      2. If the council succesfully veto's against an item, purchased by the consul, the consul shall pay for said item out of their private funds.
+      2. If the council successfully veto's against an item, purchased by the consul, the consul shall pay for said item out of their private funds.
 2. Other flat members may purchase groceries as well.
    1. The council can veto items bought by other flat members.
       1. This decision requires a simple majority.
          1. The council member may not partake in this vote.
          2. In case of a tie, the consul can break the tie.
-      2. If the council succesfully veto's against an item, purchased by another council member, said council member shall pay for said item out of their private funds.
+      2. If the council successfully veto's against an item, purchased by another council member, said council member shall pay for said item out of their private funds.
 
 ## Article 7: Rental agreement
 
@@ -135,7 +135,7 @@ This section applies to the behavior of a sitting consul.
    1. All decisions taken in such a discussion shall be amended. 
    2. An amendment takes the form of an article. Every amendment has to include its date of creation. 
       1. The addition of an amendment has to be decided upon in unison.
-      2. Amendments that overthrow governing law have to be discussed in a seperate hearing.
+      2. Amendments that overthrow governing law have to be discussed in a separate hearing.
           1. All parties shall be heard.
 
 # Amendments
