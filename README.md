@@ -30,7 +30,7 @@ We the people, defined as Ariel Noah Simulevski and Johannes Mayerl, are establi
 
 ## Article 1: The council of the flats
 
-All legislative power resides in the council of the flats (hereafter called council or flat members), consisting of the previously mentioned "people", of which every member has one vote. Decisions are made with a simple majority. In the case of a tie, the residing consul can break the tie.
+All legislative power resides in the council of the flats (hereafter referred to as "council" or "flat members"), consisting of the previously mentioned "people", of which every member has one vote. Decisions are made with a simple majority. In the case of a tie, the residing consul can break the tie.
 
 All changes to this document must be decided upon by the council in unison, through the amendment process.
 
